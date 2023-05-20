@@ -1,6 +1,6 @@
 1. what is Emmet?
 
-Emmet provides a way to write a HTML and CSS code with shortucts and abbreviations, it allows developers to generate repetitive code quickly and efficiently.
+    Emmet provides a way to write a HTML and CSS code with shortucts and abbreviations, it allows developers to generate repetitive code quickly and efficiently.
 
 Example:
 
